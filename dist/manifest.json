@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie Remover",
+  "description": "Removes cookies",
+  "version": "1.0",
+  "author": "Nucleotic",
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["tabs", "cookies", "storage"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
