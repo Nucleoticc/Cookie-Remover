@@ -6,6 +6,7 @@ Removes Cookies for current tab
 The extension is written with vue 3 + composition API + Typescript + Vite
 
 To Build for Development: npm run dev
+
 To Build for Production: npm run build
 
 ## The Installation Process
